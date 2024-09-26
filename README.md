@@ -27,4 +27,4 @@ Explore decentralized data architectures for scalable and flexible data manageme
 
 ---
 
-You can find all the books 'https://github.com/mummurthig/data-engineering-books'
+You can find all the books https://github.com/mummurthig/data-engineering-books
